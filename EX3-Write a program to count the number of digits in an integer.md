@@ -17,8 +17,8 @@ To write a Java program to count the number of digits in an integer.
 ```java
 /*
 Program to to count the number of digits in an integer
-Developed by: Sanjay V
-Register Number: 212223230188
+Developed by: DEVESH S
+Register Number: 212223230041
 */
 
 import java.util.Scanner;
